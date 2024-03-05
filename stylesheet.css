@@ -1,0 +1,19 @@
+.center-text {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a.hover-link {
+    color: blue; /* Default color */
+}
+
+/* Define hover styles for the link */
+a.hover-link:hover {
+    color: purple; /* Change color on hover */
+}
+
+#unique-box {
+    background-color: white;
+    border: 2px solid black;
+    padding: 1px;
+}
